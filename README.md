@@ -1,3 +1,3 @@
 # ML
-### including models, visualizations, examples
+### comprising models, visualizations, examples
 
