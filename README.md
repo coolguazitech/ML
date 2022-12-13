@@ -1,5 +1,6 @@
 # Machine Learning
-comprising models from scratch, visualizations, examples
+A machine learning learner, striving to enhance machine learning skills :-)
+
 ## Model
 Some basic models from scratch, containing KNN, Linear Regression, Logistic Regression, Pocket, SVM, Decision Tree.
 
