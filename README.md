@@ -1,3 +1,3 @@
-# ML
-### comprising models, visualizations, examples
+# Machine Learning
+### comprising models from scratch, visualizations, examples
 
